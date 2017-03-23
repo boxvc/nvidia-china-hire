@@ -17,7 +17,7 @@
 | 部门       | 职位		| 要求  |
 | ------------- |:-------------:| -----:|
 |Hardware |	Compute Architect	| CS/EE/Math 相关学科专业。熟悉计算机体系架构，并行处理，信号处理或者高性能并行运算相关领域。|
-|Hardware |	CUDA programming/optimization expert （目前没有workday link, 可直接发邮件至Effi Liu/Tracy Wu） |优秀的CUDA编程能力 （或有SIMD 经验：如SSE, AVX, etc）；良好的通用编程能力，熟悉计算机体系架构，有汇编经验者优先|
+|Hardware |	CUDA programming/optimization expert  |优秀的CUDA编程能力 （或有SIMD 经验：如SSE, AVX, etc）；良好的通用编程能力，熟悉计算机体系架构，有汇编经验者优先|
 |Hardware |	Senior GPU Performance Architect	| 优秀的JavaScript等web前端编程能力，有图形设计相关经验DirectX, OpenGL等|
 |Hardware |	Graphics C++ Engineer	| 优秀的C++及Python编程能力，有图形设计相关经验DirectX, OpenGL等|
 |Hardware |	SM Architect	|优秀的C++，对计算机体系结构有深入的了解|
@@ -34,7 +34,7 @@
 |SW	|Senior Game Testing QA ENGINEER	|熟悉Windows系统，熟悉游戏测试，爱好游戏|
 |SW	|Junior Service Developer	|熟悉Java；有自动化测试的经验；对网络工具有深入了解：HTTPS / SSH /防火墙/ DNS|
 |Hardware |	Senior Physical Design Engineer	|3年以上大型芯片后端设计相关经验|
-|Hardware |	ASIC PD Engineer	|1年以上大型芯片后端设计实现相关经验 （Synthesis/STA/Formal Verification etc.）||
+|Hardware |	ASIC PD Engineer	|1年以上大型芯片后端设计实现相关经验 （Synthesis/STA/Formal Verification etc.）|
 |Hardware |	Infrastructure Methodology Manager	|有跨国公司的工作经验，流利的英语听说读写能力，优秀的沟通能力。对数字前端设计流程有较为深入的理解|
 |Hardware |	ASIC Design Verification Engineer (Clock)	  | 1年以上前端验证经验|
 |Hardware |	SoC Design Engineer	|有ASIC 相关背景，熟练Perl脚本编程语言|
