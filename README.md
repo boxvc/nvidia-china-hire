@@ -64,4 +64,4 @@
 |Ops|	Production Control Planner	|熟悉消费类电子产品生产流程，有生产计划跟单等相关经验，良好的英文沟通能力|
 |Ops| Commodity Manager	|丰富的供应商管理的经验，英文流利，熟悉结构件。|
 |Ops| APAC Business Controller	|财务相关E专业，8年以上高层管理经验 （工作地点可以：香港/北京/新加坡）|
- 
+
