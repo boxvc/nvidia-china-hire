@@ -5,7 +5,7 @@
 | ------------- |:-------------:| -----:|
 | SW			|Deep Learning Engineer	| 熟悉计算机视觉领域深度学习相关经验|
 | Hardware	|Compute Architect	|CS/EE/Math 相关学科专业。熟悉计算机体系架构，并行处理，信号处理或者高性能并行运算相关领域。|
-| Hardware	|Deep Learning Performance Architect	|•有CUDA代码调优经验（或者SIMD等架构的调优经验） |  熟悉矩阵计算的优化和加速|  较强编程能力、算法分析和实现 |  熟悉计算机体系结构|
+| Hardware	|Deep Learning Performance Architect	|有CUDA代码调优经验（或者SIMD等架构的调优经验） |  熟悉矩阵计算的优化和加速|  较强编程能力、算法分析和实现 |  熟悉计算机体系结构|
 |PSB	|AI Developer Technology Engineer|深度学习相关经验或者CUDA/OpenCL 并行计算相关经验，优秀的C++编程能力|
 |PSB|Deep |Learning Solution Architect	|深度学习或者高性能计算相关经验|
 |PSB|Solutions Architect - Autonomous Driving	|汽车系统软硬件开发经验 或者深度学习/视觉技术相关经验|
