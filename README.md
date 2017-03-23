@@ -5,9 +5,9 @@
 | ------------- |:-------------:| -----:|
 | SW			|Deep Learning Engineer	| 熟悉计算机视觉领域深度学习相关经验|
 | Hardware	|Compute Architect	|CS/EE/Math 相关学科专业。熟悉计算机体系架构，并行处理，信号处理或者高性能并行运算相关领域。|
-| Hardware	|Deep Learning Performance Architect	|有CUDA代码调优经验（或者SIMD等架构的调优经验） |  熟悉矩阵计算的优化和加速|  较强编程能力、算法分析和实现 |  熟悉计算机体系结构|
+| Hardware	|Deep Learning Performance Architect	|有CUDA代码调优经验（或者SIMD等架构的调优经验）， 熟悉矩阵计算的优化和加速，较强编程能力、算法分析和实现，熟悉计算机体系结构|
 |PSB	|AI Developer Technology Engineer|深度学习相关经验或者CUDA/OpenCL 并行计算相关经验，优秀的C++编程能力|
-|PSB|Deep |Learning Solution Architect	|深度学习或者高性能计算相关经验|
+|PSB|Deep Learning Solution Architect	|深度学习或者高性能计算相关经验|
 |PSB|Solutions Architect - Autonomous Driving	|汽车系统软硬件开发经验 或者深度学习/视觉技术相关经验|
 |Marketing|	Deep Learning Instructor, NVIDIA Deep Learning Institute|	深度学习相关经验，良好的沟通表达能力|
 |Marketing|Marketing Programs Manager - Deep Learning Institute|深度学习相关经验，良好的沟通表达能力|
@@ -48,7 +48,7 @@
 | 部门       | 职位		| 要求  |
 | ------------- |:-------------:| -----:|
 |SW	|Enterprise Support Engineer	| 丰富的客户支持经验，熟悉Linux系统，熟悉server，熟悉驱动的安装以及debug|
-|WWFO|	Marketing	Web Designer	| 3年以上网页设计相关经验，中英文流利尤佳 | 具有强烈视觉美感及创意思维，对设计充满创意及无限热情及高度兴趣 | 精通Photoshop / Illustrator，且具备 HTML / JavaScript / CSS 网页技术相关经验加分|
+|WWFO|	Marketing	Web Designer	| 3年以上网页设计相关经验，中英文流利尤佳；具有强烈视觉美感及创意思维，对设计充满创意及无限热情及高度兴趣；精通Photoshop / Illustrator，且具备 HTML / JavaScript / CSS 网页技术相关经验加分|
 |Sales|	CSP-IBD	| 熟悉企业级业务，熟悉互联网行业，丰富的大客户管理经验|
 |Sales|	Government Relations Manager	| 在政府关系或相关职能部门有10年以上外企工作经验； 良好的中国政府/政治制度知识； 了解公共政策；强大的商业头脑，高度的诚信和良好的人际关系技能；出色的英文沟通能力|
  
